@@ -14,3 +14,8 @@ The story was based on Centre for Retail Research spending forecasts for Christm
 ## Visualisation
 
 * Bar chart: Spending per household on Christmas
+
+## Related stories/repos
+
+* [Is Christmas getting cheaper, or more expensive?](https://github.com/BBC-Data-Unit/christmas-dinner) (2015 and 2016)
+* You can [find all Christmas-related stories from this account here](https://github.com/search?q=topic%3Achristmas+org%3ABBC-Data-Unit&type=Repositories)
