@@ -17,8 +17,8 @@ We then took the CRR figure on Christmas to calculate the % of a month's after t
 ## Get the data
 
 * CSV: [spending forecasts for Christmas](https://github.com/BBC-Data-Unit/xmas-spending-proportion/blob/master/spendingchristmas2015_CRR.csv) (Centre for Retail Research)
-* ONS: [Gross disposable household income](https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome)
-* ONS: [total number of households by region for 2015](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/adhocs/005374totalnumberofhouseholdsbyregionandcountryoftheuk1996to2015)
+* ONS: [Gross disposable household income](https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome) - [cached here](https://github.com/BBC-Data-Unit/xmas-spending-proportion/blob/master/regionalgdhibyla.xls)
+* ONS: [total number of households by region for 2015](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/adhocs/005374totalnumberofhouseholdsbyregionandcountryoftheuk1996to2015) - [cached here](https://github.com/BBC-Data-Unit/xmas-spending-proportion/blob/master/householdsbyregion1996to2016final.xls)
 
 ## Visualisation
 
